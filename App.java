@@ -2,7 +2,7 @@ package com.retos;
 
 /*
 * Reto de Mouredev: https://tinyurl.com/2vna4j9k
- # * Reto #0
+ # * Reto #1
  # * EL FAMOSO "FIZZ BUZZ"
 
 Escribe un programa que muestre por consola (con un print) los números de 1 a 100 
